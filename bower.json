@@ -1,7 +1,7 @@
 {
   "name": "squid_api_fiddle_dataviz",
   "version": "1.0.0",
-  "homepage": "https://github.com/openbouquet/bouquet-javascript-fiddle-dataviz",
+  "homepage": "https://github.com/openbouquet/bouquet-javascript-sdk-fiddle-dataviz",
   "authors": [
     "obalbous <oba@squid>"
   ],
